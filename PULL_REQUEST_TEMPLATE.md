@@ -1,7 +1,7 @@
 ### Por que foi feito?
 ...
 
-### O que foi feito?*
+### O que foi feito?
 ...
 
 
@@ -25,5 +25,5 @@
 - [ ] Possui comentário, particularidades e/ou artefatos hard coded temporariamente.
 
 
-### Conclusão?*
+### Conclusão?
 ...
